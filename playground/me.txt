@@ -1,3 +1,0 @@
-Name: Divyansh Goenka
-Skills: React (+Next.js), Node.js (+Nest, Express, Koa), MongoDB, HTML, CSS,
-Email: divyansh.goenka@gmail.com
